@@ -1,6 +1,6 @@
 # passbucket
 
-An Electron application with React and TypeScript
+An Electron application with React and TypeScript to encrypt, store and manage your passwords, API keys, connection strings locally.
 
 ## Recommended IDE Setup
 
