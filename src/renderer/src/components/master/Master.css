@@ -1,0 +1,21 @@
+#masterPasswordsContainer {
+    height: calc(100vh - 30px);
+    text-align: center;
+    align-content: center;
+}
+
+#masterPasswordsContainer button{
+    border-radius: 4px; 
+    margin: 2px;
+    background-color: rgba(43, 43, 43, 0.643);
+    color: white;
+    padding: 2px;
+    width:6vw;
+    text-align:center;
+    cursor:pointer;
+    height:3.5vh;
+}
+
+#masterPasswordsContainer button:hover{
+    background-color: rgba(54, 54, 54, 0.509);
+}
